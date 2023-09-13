@@ -1,6 +1,7 @@
 <<QUESTION
 Write a Shell Program that takes the any number of arguments and print them in same order and in reverse order with suitable messages. (For example, if the script m named rargs, then executing rargs A B C should produce A B C and C B A on the standard output).
 QUESTION
+
 #!\bin\bash
 echo "Program name : $0"
 
