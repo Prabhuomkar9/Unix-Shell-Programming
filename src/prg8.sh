@@ -28,7 +28,7 @@ do
 done
 
 <<OUTPUT
-sh f9.sh a b c d e
+sh prg8.sh a b c d e
 Program name : f9.sh
 No. of arguments : 5
 The input arguments are
