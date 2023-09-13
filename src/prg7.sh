@@ -1,6 +1,5 @@
 <<QUESTION
-Write a shell script that accepts filename as arguments. For every filename, it should first check whether it exists in the current directory and then convert its name to uppercase, but only if a file with
-new name doesnt exist.
+Write a shell script that accepts filename as arguments. For every filename, it should first check whether it exists in the current directory and then convert its name to uppercase, but only if a file with new name doesnt exist.
 QUESTION
 #!\bin\bash
 for file in "$@"
