@@ -21,10 +21,10 @@ done
 
 <<OUTPUT
 ls
-abc  ABC  f7Part2.sh  f7.sh  f8.sh  lmn  xyz
-sh f8.sh abc xyz lmn ABC
+abc  ABC  prg7.sh  lmn  xyz
+sh prg7.sh abc xyz lmn ABC
 ABC already exists
 ABC already exists
 ls
-abc  ABC  f7Part2.sh  f7.sh  f8.sh  LMN  XYZ
+abc  ABC  prg7.sh  LMN  XYZ
 OUTPUT
