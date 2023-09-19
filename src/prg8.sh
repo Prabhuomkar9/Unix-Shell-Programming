@@ -29,7 +29,7 @@ done
 
 <<OUTPUT
 sh prg8.sh a b c d e
-Program name : f9.sh
+Program name : prg8.sh
 No. of arguments : 5
 The input arguments are
 arg1 is a
