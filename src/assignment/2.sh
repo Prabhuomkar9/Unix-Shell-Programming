@@ -62,5 +62,6 @@ Enter the choice:
 Enter the file name to move:
 b
 Enter the location to move to:
-folder/b
+folder/c
+File b moved to folder/c
 OUTPUT
