@@ -9,10 +9,10 @@ for field in $list
 do
     if [ $count -eq 0 ]
     then
-        if [ `echo $field | cut -b 1` = "d" ]
+        if [ `echo $field | cut -c 1` = "d" ]
         then
             flag=false
-        elif [ `echo $field | cut -b 2-4` != "rwx" ]
+        elif [ `echo $field | cut -c 2-4` != "rwx" ]
         then
             flag=false
         fi
