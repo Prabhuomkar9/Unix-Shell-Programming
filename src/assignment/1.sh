@@ -9,3 +9,14 @@ then
 else
 	echo "Number is odd"
 fi
+
+
+<<OUTPUT
+Enter a number:
+2
+Number is even
+
+Enter a number:
+3
+Number is odd
+OUTPUT
