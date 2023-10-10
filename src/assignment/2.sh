@@ -64,4 +64,11 @@ b
 Enter the location to move to:
 folder/c
 File b moved to folder/c
+Choices:
+1. Copy file
+2. Remove file
+3. Move file
+4. Exit
+Enter the choice:
+4
 OUTPUT
